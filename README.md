@@ -3,12 +3,10 @@ This is a metapackage for the hunter robot platform.
 
 ## PACKAGES:
 
-1. hunter_robot
+### 1. [hunter_robot](HR.md)
 
-	This is the main package of the hunter_robot repository.
+### 2. [hunter_robot_description](HR_DESCRIPTION.md)
 
-### 2. hunter_robot_description
+### 3. [hunter_robot_unity](HR_UNITY.md)
 
-### 3. hunter_robot_unity
-
-### 4. hunter_robot_drivers
+### 4. [hunter_robot_drivers](HR_DRIVERS.md)
